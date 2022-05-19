@@ -13,7 +13,7 @@ Django x MongoDB
 
  http://127.0.0.1:8000/
  
-![alt text](https://github.com/desinthazhr/RenTrady/blob/master/img.jpg)
+![alt text](https://github.com/desinthazhr/RenTrady/blob/master/img.JPG)
 
 
 "# RenTrady" 
